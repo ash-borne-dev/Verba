@@ -35,7 +35,7 @@ VERBA is an AI-powered multilingual text translation prototype built using Pytho
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/as-borne-dev/Verba.git
+   git clone https://github.com/ash-borne-dev/Verba.git
    ```
 
 2. Open the project directory:
